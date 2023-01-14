@@ -52,8 +52,12 @@
 * [CSS3](https://en.wikipedia.org/wiki/CSS)
 
 ## **Frameworks, Libraries & Programs Used**
-  * [Balasamiq](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIvIHOsbe__AIVi-vtCh3lfgSREAAYAiAAEgK77vD_BwE)
-
+  1. [Balasamiq:](https://balsamiq.com/wireframes/?gclid=EAIaIQobChMIvIHOsbe__AIVi-vtCh3lfgSREAAYAiAAEgK77vD_BwE)
+      * balsamiq was used to create wire-frames during the design process. In order to visualize the site layout.
+  2. [Bootstrap v5.3.0:](https://getbootstrap.com/)
+      * Bootstrap was used to provide some styling for the website and to assist with responsivness.
+  3. [Font Awesome v6.2.1:](https://fontawesome.com)
+      * Font Awesome was used consistently throughout the site to create visual appeal and improve UX by highlighting points of interest.
 ## **Credits**
 ---
   * ## **Code**
