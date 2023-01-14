@@ -1,0 +1,44 @@
+
+
+/*---------------------------------------------------------Header*/
+
+header {
+    height: 80px;
+}
+
+/*---------------------------------------------------------Nav bar*/
+
+.navbar {
+    display:inline-block ;
+}
+
+nav > a {
+    float: inline-end;
+    padding: 0px 20px 0px 20px;
+    font-weight: 300;
+    text-decoration: none;
+    font-family: 'Quantico', sans-serif;
+    color: black;
+    font-size: 1.5rem;
+}
+ 
+/*---------------------------------------------------------Colors*/
+
+.header-bg-color {
+    background-color: slategray;
+}
+
+.navbar-bg-color {
+    background-color: rebeccapurple;
+}
+
+nav a i {
+    color:orangered;
+}
+
+/*---------------------------------------------------------Text, icons, other styling*/
+
+h1 {
+    font-family: 'Quantico' , sans-serif;
+    font-size: 4rem;
+}

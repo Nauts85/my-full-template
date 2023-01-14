@@ -35,6 +35,9 @@
     * **Color Scheme**
          
     * **Typography**
+        *   I have chosen the Quantico font to use throughout the website with sans-serif as the fall back in the rare event that Google is not available.  
+         As i'm aiming for a sci-fi theme blended with video game elements Quantico seemed like the obvious choice as it incorporates both desired styles. 
+
 
     * **Imagery**
 
