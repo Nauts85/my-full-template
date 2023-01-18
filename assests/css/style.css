@@ -1,9 +1,8 @@
 /*---------------------------------------------------------Header*/
 
-.title-header {
-    margin-top: 1.25rem;
+header {
+    padding: 10px 0px 10px 0px;
 }
-
 
 /*---------------------------------------------------------Nav bar*/
 
@@ -17,11 +16,24 @@ nav div a {
 
 /*---------------------------------------------------------Landing page content*/
 
+#map-frame {
+    padding: 15px 0px 15px 0px;
+}
+
+
+
+.heading-highlighter {
+    background-color: #fafafa;
+    height: fit-content;
+    width: fit-content;
+    border-radius: 20%;
+
+}
+
 .company-ethos-heading {
     font-family: 'Quantico', sans-serif;
     text-align: center;
     font-weight: 400;
-    text-decoration: underline #fafafa dotted 4px;
 }
 
 .contact-us-button {
@@ -29,7 +41,7 @@ nav div a {
     background-color: #663399;
     font-family: 'Quantico', sans-serif;
     border: hidden;
-
+    margin-bottom: 10px;
 }
 
 
@@ -56,7 +68,7 @@ h3 {
     background-color: #663399;
 }
 
-nav a i {
+i {
     color: #fafafa;
 }
 
@@ -64,7 +76,7 @@ div a {
     color: #35acd8;
 }
 
-.company-ethos-bg-color {
+.text-card-bg-color {
     background-color: #322151;
 }
 
@@ -72,9 +84,21 @@ div a {
     color: #fafafa;
 }
 
-/*---------------------------------------------------------Text, icons, other styling*/
+/*---------------------------------------------------------Text, icons, Padding, other styling*/
 
-h1 {
+#days-col {
+    padding-right: 0px;
+}
+
+#opening-times-col {
+    padding-left: 3px;
+}
+
+p,
+li,
+h1,
+h2,
+h3 {
     font-family: 'Quantico', sans-serif;
 }
 
@@ -82,13 +106,12 @@ p {
     font-weight: 300;
 }
 
-.attraction-list {
-    list-style: none;
-    text-align: center;
-}
-
 hr {
     color: #fafafa;
+}
+
+li {
+    list-style-type: none;
 }
 
 
